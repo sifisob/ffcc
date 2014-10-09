@@ -2,7 +2,7 @@
     ViewData("Title") = "First Finance"
 End Code
 
-<div class="jumbotron">
+<div class="jumbotron" style="margin-top: 30px">
     <h1>FIRST FINANCE</h1>
 </div>
 
